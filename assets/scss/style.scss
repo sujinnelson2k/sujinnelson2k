@@ -185,7 +185,7 @@ body {
                     color: red;
                 }
 
-                h5 {
+                p {
                     text-transform: uppercase;
                     color: var(--titleColor);
                     margin: 0;
@@ -323,8 +323,9 @@ body {
     &-title {
         flex: 5;
 
-        h4 {
+        p {
             margin: 0;
+            font-weight: bold;
             color: var(--titleColor);
         }
     }
