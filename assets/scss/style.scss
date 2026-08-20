@@ -47,6 +47,7 @@ body {
 
 .resume-main {
     display: flex;
+    flex-direction: row-reverse;
 }
 
 .lhs {
@@ -128,7 +129,7 @@ body {
         column-gap: 35px;
         flex-wrap: nowrap;
 
-        h3 {
+        p {
             margin: 0;
             letter-spacing: 4px;
             font-size: 15px;
