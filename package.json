@@ -1,7 +1,7 @@
 {
   "name": "sujinnelson2k",
   "version": "1.0.0",
-  "description": "description",
+  "description": "Portfolio of Sujin N - UI Developer with 4+ years of experience building responsive, accessible, and user-friendly web interfaces using HTML, CSS, JavaScript, SCSS, Bootstrap, and modern front-end technologies.",
   "main": "index.html",
   "scripts": {
     "build": "sass --style=compressed assets/scss:assets/css",
